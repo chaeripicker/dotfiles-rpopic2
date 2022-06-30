@@ -1,0 +1,13 @@
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[user]
+	email = rpopic2@gmail.com
+	name = rpopic2
+[core]
+	editor = vim
+[init]
+	defaultBranch = main
