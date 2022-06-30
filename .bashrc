@@ -112,11 +112,11 @@ if ! shopt -oq posix; then
   fi
 fi
 
-#custom settings
+# Custom settings my me! For aliases please look .bash_aliases
 # vi mode
 set -o vi
 
-#fzf settings
+#fzf
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
 
 #PATH settings
